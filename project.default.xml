@@ -1,0 +1,31 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Downloads/lcc-java-fp-printer-1.1.0" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/lcc-java-fp-highscores-1.0.2-FLATMAP" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/lcc-java-fp-highscores-1.0.3-COLLECT" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/lcc-java-fp-highscores-1.0.3-FILTER" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/lcc-java-fp-highscores-1.0.4-MAP" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/lcc-java-fp-houses-1.1.0-CLOSURE" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/lcc-java-fp-houses-1.1.0-COMPOSITION" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/lcc-java-fp-houses-1.1.0-RANGE" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/lcc-java-fp-houses-1.1.0-REDUCTION" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/lcc-java-fp-whisperer-1.1.0" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration />
+      </component>
+    </defaultProject>
+  </component>
+</application>
